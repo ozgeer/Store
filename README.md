@@ -1,4 +1,4 @@
-# StorePatika
+# Store
 Java102-PatikaStore
 
 Kullanıcı sistem üzerinden ilgili kategorideki (Notebook, Cep Telefonları vb.) ürünleri listeyebilimeli
