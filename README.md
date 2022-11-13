@@ -1,5 +1,5 @@
 # Store
-Java102-PatikaStore
+Java102-Store
 
 STREAM API kullanıldı.
 
